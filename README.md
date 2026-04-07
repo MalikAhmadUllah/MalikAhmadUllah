@@ -1,10 +1,52 @@
-- 👋 Hi there, I’m @MalikAhmadUllah, Machine Learning Engineer, Data Scientist and Researcher.
-- 👀 I’m interested in applying machine learning and signal processing techniques on time-series and image data.
-- 🌱 I’m currently working as a **Research Asistant** at the **Departement of Elecrtical Engineering**, *Qatar University, Doha, Qatar.* . 
-- 💞️ I’m looking to collaborate with projects related to *healthcare, robotics* and *Computer Vision*.
-- 📫 I can be reached via [LinkedIn](https://www.linkedin.com/in/ahmad-ullah-1b5063202/) and [email](malikahmadullah47@gmail.com)
+# Hi, I'm Ahmad Ullah 👋
 
-<!---
-MalikAhmadUllah/MalikAhmadUllah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Biomedical AI Researcher · Computational Pathology · Signal Processing**  
+Graduate Research Assistant — Department of Computer Science & Engineering, *Qatar University, Doha, Qatar*
+
+---
+
+## 🔬 Research
+
+**Oral Squamous Cell Carcinoma (OSCC) Histopathology Segmentation**  
+Developing a deep learning pipeline for automated OSCC detection from whole-slide histopathology images.
+
+- Fine-tuning **UNI2-h** (foundation model encoder) with **LoRA** for parameter-efficient tissue segmentation
+- Training **U-Net** baselines achieving competitive Dice scores on curated patch datasets
+- Built a custom **Streamlit QC application** for dataset curation and tolerance-based mask validation
+- Target venue: **MICCAI**
+
+---
+
+## 🛠️ Tech Stack
+
+**ML / DL:** PyTorch · Hugging Face PEFT · LoRA · U-Net · scikit-learn  
+**Data & Vision:** OpenSlide · OpenCV · NumPy · Pandas · Matplotlib · Streamlit  
+**Signal Processing:** Time-series analysis · Wavelet transforms · Feature engineering  
+**Dev Tools:** Python · Git · Conda · VS Code · GitHub Copilot  
+
+---
+
+## 🌱 Currently Exploring
+
+- Medical image segmentation with parameter-efficient fine-tuning (PEFT)
+- Foundation models for computational pathology (UNI, CONCH, PLIP)
+- ML & signal processing on time-series and biomedical image data
+
+---
+
+## 🤝 Open to Collaborations
+
+I'm looking to collaborate on projects in:
+
+- 🏥 Healthcare AI & medical imaging
+- 🤖 Robotics & autonomous systems
+- 👁️ Computer Vision research
+
+If you're working in any of these areas, feel free to reach out — I'd love to connect.
+
+---
+
+## 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Ullah-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmad-ullah-1b5063202/)
+[![Email](https://img.shields.io/badge/Email-im.ahmadullah.pk%40gmail.com-red?style=flat&logo=gmail)](mailto:im.ahmadullah.pk@gmail.com)
