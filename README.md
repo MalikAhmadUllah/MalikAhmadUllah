@@ -5,7 +5,7 @@ Graduate Research Assistant — Department of Computer Science & Engineering, *Q
 
 ---
 
-## 🔬 Research
+## 🔬 Curremt Research
 
 **Oral Squamous Cell Carcinoma (OSCC) Histopathology Segmentation**  
 Developing a deep learning pipeline for automated OSCC detection from whole-slide histopathology images.
@@ -13,7 +13,7 @@ Developing a deep learning pipeline for automated OSCC detection from whole-slid
 - Fine-tuning **UNI2-h** (foundation model encoder) with **LoRA** for parameter-efficient tissue segmentation
 - Training **U-Net** baselines achieving competitive Dice scores on curated patch datasets
 - Built a custom **Streamlit QC application** for dataset curation and tolerance-based mask validation
-- Target venue: **MICCAI**
+- Target venue: **MICCAI**, **CVPR**, and **IEEE TMI**
 
 ---
 
